@@ -48,6 +48,7 @@ const ProductInteraction = ({
     });
     toast.success("Product added to cart");
   };
+
   return (
     <div className="flex flex-col gap-4 mt-4">
       {/* SIZE */}
