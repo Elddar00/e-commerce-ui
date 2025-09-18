@@ -158,7 +158,7 @@ const SingleUserPage = () => {
               </div>
               <div className="flex items-center gap-2">
                 <span className="font-bold">City:</span>
-                <span>Novi Pazar</span>
+                <span>New York</span>
               </div>
             </div>
             <p className="text-sm text-muted-foreground mt-4">
